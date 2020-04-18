@@ -8,8 +8,8 @@ Un titre et un résumé en anglais qui reprennent le titre et le résumé en fra
 
 ## Présentation de l'équipe
 
-|(´・ω・｀)| ( ͡° ͜ʖ ͡°) | ಠ_ಠ | ᕕ( ᐛ )ᕗ |
-|-----|--|--|--|
+|(´・ω・｀)| ( ͡° ͜ʖ ͡°) | ಠ_ಠ | ᕕ( ᐛ )ᕗ |ᕕ( ᐛ )ᕗ |
+|-----|--|--|--|--|
 | S.MUHAMMAD| J. AOUCHICHE | M. CHEIKH  | A. AISSAOUI  | R.TALBI |
 
 
