@@ -1,6 +1,6 @@
 # paludisme
 Membres du groupe:
-Mehdi CHEIKH
+Mehdi CHIKH
 Saif MUHAMMAD
 Juba AOUCHICHE
 Ramy TALBI
